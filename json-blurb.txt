@@ -1,0 +1,27 @@
+{
+  
+    "view": [
+      1, gift of prophecy
+      2, ...
+      3 ...
+    ],
+    controller: [
+    "talent": true,
+    "color": "elite",
+    "null": null,
+    "symboll": "Laurel tree",
+    "related": {
+        "Father": "Zeus",
+        "Mother": "Leto",
+        "Brothers": ["Hermes", "Dionysus", "Herakles"],
+        "Sisters": ["Artemis", "Athena", "Helen"],
+        "Children": ["Asclepius", "Orpheus", "Aristeus", "Philammon"]
+      }
+    ],
+    "name": "APOLLO",
+    "roman name": "Apollo"
+    "model": (options) => {
+      ...
+    }
+    
+}
