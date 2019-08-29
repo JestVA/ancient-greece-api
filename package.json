@@ -1,0 +1,43 @@
+{
+  "name": "ancient-greece-api",
+  "version": "0.0.5",
+  "description": "Collect and train mythical heroes of Ancient Greece. Discover their perks, favorite weapon or related trivia. JSON friendly.",
+  "main": "ancient-greece.js",
+  "dependencies": {
+    "koa": "^2.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JestVA/middleland.git"
+  },
+  "keywords": [
+    "api",
+    "ancient",
+    "greece",
+    "heroes",
+    "trivia",
+    "game",
+    "json",
+    "rest",
+    "array",
+    "training",
+    "slice",
+    "score",
+    "gamify",
+    "gaming",
+    "npm",
+    "package",
+    "heroes",
+    "package"
+  ],
+  "author": "D.D.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JestVA/middleland/issues"
+  },
+  "homepage": "https://github.com/JestVA/middleland#readme"
+}
